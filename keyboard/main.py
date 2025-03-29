@@ -1,3 +1,5 @@
+"""Keyboard listener that presses the keys automatically."""
+
 from pyautogui import press
 from uvloop import run
 from websockets.asyncio.client import connect

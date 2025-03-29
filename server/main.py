@@ -1,3 +1,5 @@
+"""Send keys from typists to keyboard."""
+
 from math import floor
 from random import sample
 from string import ascii_lowercase
